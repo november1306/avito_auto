@@ -9,8 +9,8 @@ import static com.codeborne.selenide.Selenide.$$;
 
 public class SampleTest {
     private static final String BASE_URL = "https://www.avito.ru";
-    private static final String EMAIL = "tatadonetskaya@gmail.com";
-    private static final String PASSWORD = "xN6T!VxqfLjN6ay";
+    private static final String EMAIL = "test_email";
+    private static final String PASSWORD = "test_password";
 
 
     @Test
